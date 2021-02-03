@@ -1,4 +1,4 @@
-# CORAS The Explorer1
+# CORAS The Explorer
 
 A web application presenting the CORAS approach and language, to aid in learning the framework.
 
